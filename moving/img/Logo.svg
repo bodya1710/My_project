@@ -1,0 +1,18 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 107 99" width="107" height="99">
+	<title>Logo-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.txt1 { font-size: 18px;fill: #d91111;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+		.txt2 { font-size: 18px;fill: #d91111;font-weight: 700;font-family: "DejaVuSansCondensed-Bold", "DejaVu Sans" } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="shp0" d="M4 91L4 0L103 0L103 70.35L85.24 91L4 91Z" />
+		<text id="moving company " style="transform: matrix(1,0,0,1,8,15)" >
+			<tspan x="13.483" y="13.676" class="txt1">m</tspan><tspan  y="13.676" class="txt1">o</tspan><tspan  y="13.676" class="txt1">v</tspan><tspan  y="13.676" class="txt1">i</tspan><tspan  y="13.676" class="txt1">n</tspan><tspan  y="13.676" class="txt1">g</tspan><tspan  y="13.676" class="txt1">
+</tspan>
+			<tspan x="5.52" y="35.276" class="txt1">c</tspan><tspan  y="35.276" class="txt1">o</tspan><tspan  y="35.276" class="txt1">m</tspan><tspan  y="35.276" class="txt1">p</tspan><tspan  y="35.276" class="txt1">a</tspan><tspan  y="35.276" class="txt1">n</tspan><tspan  y="35.276" class="txt1">y</tspan><tspan  y="35.276" class="txt2">
+</tspan>
+		</text>
+	</g>
+</svg>
